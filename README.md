@@ -1,4 +1,4 @@
-"# Bosch CCS 1000 D Simulator
+# Bosch CCS 1000 D Simulator
 
 A Qt6-based desktop application that simulates the Bosch Conference Control System (CCS 1000 D), providing a virtual environment for testing and developing applications that interact with Bosch conference hardware.
 
@@ -240,3 +240,4 @@ If you encounter any issues or have questions:
 ---
 
 **Note**: This is a simulator for development purposes. It does not replace actual Bosch hardware and may not implement all features of the real CCS 1000 D system." 
+
