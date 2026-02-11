@@ -1,0 +1,10 @@
+Bosch CCS 1000 D Simulator - Qt6-based desktop application that simulates the Bosch Conference Control System for testing and development without physical hardware.
+
+This project provides:
+- Visual simulation of 10 microphone units with real-time state updates
+- HTTP REST API server compatible with Bosch CCS 1000 D API
+- Chairman priority control functionality
+- Server activity logging for debugging
+- Cross-platform support (Windows, macOS, Linux)
+
+Perfect for developers building conference management applications!
